@@ -1,0 +1,260 @@
+{
+    "mobiles": [
+      {
+        "id": "m1",
+        "name": "Galaxy S22 Ultra",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "15% off",
+        "image": "/assets/phone(b).png"
+      },
+      {
+        "id": "m2",
+        "name": "Galaxy M13 (4GB | 64 GB)",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "20% off",
+        "image": "/assets/phone(b).png"
+      },
+      {
+        "id": "m3",
+        "name": "Galaxy M33 (4GB | 64GB)",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "10% off",
+        "image": "/assets/phone(b).png"
+      },
+      {
+        "id": "m4",
+        "name": "Galaxy M53 (4GB | 64 GB)",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "15% off",
+        "image": "/assets/phone(b).png"
+      },
+      {
+        "id": "m5",
+        "name": "iPhone 13 Pro",
+        "price": 35000,
+        "originalPrice": 37000,
+        "discount": "10% off",
+        "image": "/assets/phone(b).png"
+      },
+      {
+        "id": "m6",
+        "name": "Google Pixel 6",
+        "price": 28000,
+        "originalPrice": 30000,
+        "discount": "12% off",
+        "image": "/assets/phone(b).png"
+      }
+    ],
+    "tablets": [
+      {
+        "id": "t1",
+        "name": "iPad Pro",
+        "price": 45000,
+        "originalPrice": 48000,
+        "discount": "10% off",
+        "image": "/assets/tablet.png"
+      },
+      {
+        "id": "t2",
+        "name": "Samsung Galaxy Tab S7",
+        "price": 40000,
+        "originalPrice": 42000,
+        "discount": "8% off",
+        "image": "/assets/tablet.png"
+      },
+      {
+        "id": "t3",
+        "name": "Microsoft Surface Go",
+        "price": 35000,
+        "originalPrice": 37000,
+        "discount": "7% off",
+        "image": "/assets/tablet.png"
+      }
+    ],
+    "laptopsDesktop": [
+      {
+        "id": "ld1",
+        "name": "MacBook Pro",
+        "price": 75000,
+        "originalPrice": 80000,
+        "discount": "12% off",
+        "image": "/assets/desktop.png"
+      },
+      {
+        "id": "ld2",
+        "name": "Dell XPS 13",
+        "price": 65000,
+        "originalPrice": 68000,
+        "discount": "8% off",
+        "image": "/assets/desktop.png"
+      },
+      {
+        "id": "ld3",
+        "name": "HP Spectre x360",
+        "price": 70000,
+        "originalPrice": 73000,
+        "discount": "9% off",
+        "image": "/assets/desktop.png"
+      }
+    ],
+    "electronics": [
+      {
+        "id": "e1",
+        "name": "Sony 4K TV",
+        "price": 55000,
+        "originalPrice": 58000,
+        "discount": "10% off",
+        "image": "/assets/electronics.png"
+      },
+      {
+        "id": "e2",
+        "name": "Bose Soundbar",
+        "price": 25000,
+        "originalPrice": 27000,
+        "discount": "12% off",
+        "image": "/assets/electronics.png"
+      },
+      {
+        "id": "e3",
+        "name": "Canon EOS R5",
+        "price": 85000,
+        "originalPrice": 90000,
+        "discount": "8% off",
+        "image": "/assets/electronics.png"
+      }
+    ],
+    "gadgets": [
+      {
+        "id": "g1",
+        "name": "Apple Watch Series 7",
+        "price": 22000,
+        "originalPrice": 24000,
+        "discount": "15% off",
+        "image": "/assets/smartwatch.png"
+      },
+      {
+        "id": "g2",
+        "name": "DJI Mavic Air 2",
+        "price": 45000,
+        "originalPrice": 48000,
+        "discount": "10% off",
+        "image": "/assets/gadgets.png"
+      },
+      {
+        "id": "g3",
+        "name": "Fitbit Charge 5",
+        "price": 8000,
+        "originalPrice": 9000,
+        "discount": "12% off",
+        "image": "/assets/smartwatch.png"
+      }
+    ],
+    "accessories": [
+      {
+        "id": "a1",
+        "name": "Ambarance Raap hub",
+        "price": 1000,
+        "originalPrice": 1500,
+        "discount": "15% off",
+        "image": "/assets/raaphub.png"
+      },
+      {
+        "id": "a2",
+        "name": "Skullcandy jib mic",
+        "price": 1000,
+        "originalPrice": 1500,
+        "discount": "20% off",
+        "image": "/assets/jib mic.png"
+      },
+      {
+        "id": "a3",
+        "name": "SanDisk class 10",
+        "price": 1000,
+        "originalPrice": 1500,
+        "discount": "10% off",
+        "image": "/assets/sandisk.png"
+      },
+      {
+        "id": "a4",
+        "name": "Ambrane Neon 11",
+        "price": 1000,
+        "originalPrice": 1500,
+        "discount": "15% off",
+        "image": "/assets/ambrane neon.png"
+      },
+      {
+        "id": "a5",
+        "name": "Powerup 4-in USB",
+        "price": 1000,
+        "originalPrice": 1500,
+        "discount": "15% off",
+        "image": "/assets/usb.png"
+      }
+    ],
+    "smartTechnology": [
+      {
+        "id": "st1",
+        "name": "Google Nest Hub",
+        "price": 12000,
+        "originalPrice": 13000,
+        "discount": "10% off",
+        "image": "/assets/smart-tech.png"
+      },
+      {
+        "id": "st2",
+        "name": "Amazon Echo Dot",
+        "price": 3000,
+        "originalPrice": 3500,
+        "discount": "15% off",
+        "image": "/assets/smart-tech.png"
+      },
+      {
+        "id": "st3",
+        "name": "Philips Hue Starter Kit",
+        "price": 8000,
+        "originalPrice": 9000,
+        "discount": "12% off",
+        "image": "/assets/smart-tech.png"
+      }
+    ],
+    "wirelessHeadsets": [
+      {
+        "id": "wh1",
+        "name": "Sony WF-C500 Truly",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "15% off",
+        "image": "/assets/airpods(a).png"
+      },
+      {
+        "id": "wh2",
+        "name": "Apple AirPods 2",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "15% off",
+        "image": "/assets/airpods(a).png"
+      },
+      {
+        "id": "wh3",
+        "name": "Boat Airdopes 138",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "15% off",
+        "image": "/assets/airpods(a).png"
+      },
+      {
+        "id": "wh4",
+        "name": "Oneplus Nord Buds True",
+        "price": 32000,
+        "originalPrice": 34000,
+        "discount": "15% off",
+        "image": "/assets/airpods(a).png"
+      }
+    ]
+  }
+  
+  
